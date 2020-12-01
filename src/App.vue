@@ -1,18 +1,19 @@
 <template>
   <div id="app">
-    <SignUpForm></SignUpForm>
+    <LandingPage></LandingPage>
     <Footer></Footer>
   </div>
 </template>
 
 <script>
-import SignUpForm from './components/SignUpForm'
+import LandingPage from './components/LandingPage'
+
 import Footer from './components/Footer'
 
 export default {
   name: 'App',
   components: {
-    SignUpForm,
+    LandingPage,
     Footer
   }
 }
