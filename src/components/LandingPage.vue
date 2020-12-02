@@ -1,5 +1,5 @@
 <template>
-    <main class="main-section">
+    <main class="main-section container">
         <div class="main">
             <h1 class="main__title">Learn to code by watching others</h1>
             <p class="main__description">See how experienced developers solve problems in real-time. Watching scripted tutorials is great, 

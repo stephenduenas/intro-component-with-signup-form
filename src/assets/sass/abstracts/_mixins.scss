@@ -1,0 +1,5 @@
+@mixin respond-to($media) {
+    @if $media == tabletAndDesktop {
+      @media only screen and (min-width: $breakpoint-big-screen) { @content; }
+    }
+}
