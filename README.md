@@ -1,31 +1,13 @@
-# signup-form
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+# Signup Form Project 
+## Using Vue, Sass, BEM 
+## Link of my work: https://stephenduenas-signup.vercel.app/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Frontend Mentor - Intro component with sign up form
 
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro component with sign up form coding challenge](./src/assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
